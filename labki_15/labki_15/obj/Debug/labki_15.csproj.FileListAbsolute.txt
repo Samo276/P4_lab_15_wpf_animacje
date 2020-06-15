@@ -1,0 +1,15 @@
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\bin\Debug\labki_15.exe.config
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\bin\Debug\labki_15.exe
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\bin\Debug\labki_15.pdb
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.csprojAssemblyReference.cache
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\MainWindow.g.cs
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\App.g.cs
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15_MarkupCompile.cache
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15_MarkupCompile.lref
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\MainWindow.baml
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.g.resources
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.Properties.Resources.resources
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.csproj.GenerateResource.cache
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.csproj.CoreCompileInputs.cache
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.exe
+G:\ATH\P4\P4_lab_15_wpf_animacje\labki_15\labki_15\obj\Debug\labki_15.pdb
